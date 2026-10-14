@@ -1,0 +1,20 @@
+.registration-containner{
+    width: 40%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+@media (max-width: 991px) {
+     .registration-containner{
+         width: 80%;
+     }
+}
+
+@media (max-width: 767px) {
+     .registration-containner{
+         width: 90%;
+     }
+}

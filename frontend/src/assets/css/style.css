@@ -1,0 +1,14 @@
+.error{
+    color: red;
+    padding-left: 30px;
+}
+
+@media (max-width: 991px) {
+     
+}
+
+@media (max-width: 767px) {
+   .error{
+    padding-left: 10px;
+    }
+}
